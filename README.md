@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shivandru</h1>
+<h1 align="center">Hi 👋 Welcome to my GitHub! I'm Shivandru</h1>
 <h4 align="center">I'm a passionate, enthusiastic and results-driven Front-End Developer with a strong foundation in React development. Eagerly pursuing Full Stack Web Development to expand my skill set and contribute to dynamic and innovative projects. 😃. I focus on writing clean, elegant and efficient code ✨.</h4>
 
 🌍 I'm based in Deoghar, Jharkhand, India
