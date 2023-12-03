@@ -5,7 +5,7 @@
 
 ⚛️ Some technologies that I love to work with, includes React.Js, Javascript, HTML5, CSS3.
 
-🚀 I have learned couple of CSS libraries like Chakra UI & TailWind.
+🚀 I have learned couple of CSS libraries like Chakra UI & TailWind Css.
 
 😃 My interest includes Web-Development.
 
