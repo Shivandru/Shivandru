@@ -3,7 +3,7 @@
 
 🌍 I'm based in Deoghar, Jharkhand, India
 
-⚛️ Some technologies that I love to working with includes .
+⚛️ Some technologies that I love to work with, includes React.Js, Javascript, HTML5, CSS3.
 
 🚀 I have learned couple of CSS libraries like Chakra UI & TailWind.
 
