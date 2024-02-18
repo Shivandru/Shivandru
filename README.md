@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub! I'm Shivandru</h1>
-<h4 align="center">I'm a passionate, enthusiastic and results-driven Front-End Developer with a strong foundation in React development. Eagerly pursuing Full Stack Web Development to expand my skill set and contribute to dynamic and innovative projects. 😃. I focus on writing clean, elegant and efficient code ✨.</h4>
+<h4 align="center">👋 Hey there! I'm a passionate, enthusiastic, and results-driven Full Stack Web Developer with a solid foundation in both Front-End and Back-End technologies.
+
+🚀 With a strong background in React development, I've recently ventured into the realm of Back-End development using Node.js, Express for RESTful APIs, and MongoDB for database management.
+
+💡 I'm all about crafting clean, elegant, and efficient code to bring dynamic and innovative projects to life.
+
+💻 Eager to collaborate on exciting ventures and contribute my skills to building robust web solutions. Let's create something awesome together! ✨</h4>
 
 🌍 I'm based in Deoghar, Jharkhand, India
 
