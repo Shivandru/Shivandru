@@ -9,7 +9,7 @@
 
 🌍 I'm based in Deoghar, Jharkhand, India
 
-⚛️ Some technologies that I love to work with, includes React.Js, Javascript, HTML5, CSS3.
+⚛️ Some technologies that I love to work with, includes React.Js, Javascript, HTML5, CSS3, ChakraUI, NodeJs, Express, MongoDb, Redis, WebSockets(Socket.io)
 
 🚀 I have learned couple of CSS libraries like Chakra UI & TailWind Css.
 
@@ -31,6 +31,15 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![mongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Shivandru&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
