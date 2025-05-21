@@ -17,7 +17,7 @@
 
 📧 Email - shivandru.singh045@gmail.com
 
-💼 Portfolio - [https://shivandru.github.io/myPortFolio/](https://shivandru.github.io/myPortFolio/)
+💼 Portfolio - [https://my-portfolio-steel-chi-32.vercel.app/](https://my-portfolio-steel-chi-32.vercel.app/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivandru-166145179/) 
